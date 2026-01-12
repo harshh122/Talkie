@@ -1,4 +1,4 @@
-# 💬 BlahBlah
+# 💬 Talkie
 
 ![MERN Stack](https://img.shields.io/badge/Stack-MERN-blueviolet)
 ![Socket.IO](https://img.shields.io/badge/Real--Time-Socket.IO-green)
